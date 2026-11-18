@@ -113,3 +113,15 @@ Archive of **13 high school programming projects** built in Visual Basic .NET an
 
 ### 13. [Animated ASCII Diamond & Pyramid Generator](./ASCII-Diamond-Animation-CPP) (`ASCII-Diamond-Animation-CPP`)
 * **Language:** C++ (Visual Studio)
+* **Description:** A console graphics program that constructs a multi-colored diamond pattern in the center of the terminal by rendering four distinct triangular quadrants with timed animation delays.
+* **Key Programming Concepts Demonstrated:**
+  * Nested `for` loops with ascending and descending index counters to generate geometric patterns.
+  * Coordinate-based console rendering using the Windows API (`SetConsoleCursorPosition` / `gotoxy`).
+  * Dynamic terminal color manipulation (`SetConsoleTextAttribute`) and frame-by-frame animation timing (`Sleep()`).
+
+---
+
+## How to Run These Projects
+
+* **Visual Basic .NET Projects (`*-VB`):** Open the `.sln` solution file inside each folder using **Microsoft Visual Studio** and press **F5** to build and run.
+* **C++ Projects (`*-CPP`):** Open the `.sln` / `.vcxproj` file in **Visual Studio**, or compile the `.cpp` source file directly using any Windows C++ compiler (`g++`, MinGW, or Dev-C++).

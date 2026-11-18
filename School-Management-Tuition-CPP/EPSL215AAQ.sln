@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EPSL215AAQ", "EPSL215AAQ\EPSL215AAQ.vcxproj", "{CF500597-125A-4DD9-B6ED-59A6B3551297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF500597-125A-4DD9-B6ED-59A6B3551297}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF500597-125A-4DD9-B6ED-59A6B3551297}.Debug|Win32.Build.0 = Debug|Win32
+		{CF500597-125A-4DD9-B6ED-59A6B3551297}.Release|Win32.ActiveCfg = Release|Win32
+		{CF500597-125A-4DD9-B6ED-59A6B3551297}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

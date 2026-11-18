@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JuegoMemoria", "JuegoMemoria\JuegoMemoria.vbproj", "{205A3079-A443-40C8-90EA-CCF9D1C481C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205A3079-A443-40C8-90EA-CCF9D1C481C5}.Debug|x86.ActiveCfg = Debug|x86
+		{205A3079-A443-40C8-90EA-CCF9D1C481C5}.Debug|x86.Build.0 = Debug|x86
+		{205A3079-A443-40C8-90EA-CCF9D1C481C5}.Release|x86.ActiveCfg = Release|x86
+		{205A3079-A443-40C8-90EA-CCF9D1C481C5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

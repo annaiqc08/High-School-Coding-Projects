@@ -71,7 +71,7 @@ void consprod(void){
 			consprod();
 		}
 	}
-	cout<<"¿Desea realizar otra consulta? (s/n)==> ";
+	cout<<"Â¿Desea realizar otra consulta? (s/n)==> ";
 	cin>>continuar;
 	consprod();
 	}while((continuar != "n") && (continuar != "N"));
@@ -133,7 +133,7 @@ void consulclie(void){
 			consulclie();
 		}
 	}
-	cout<<"¿Desea realizar otra consulta? (s/n)==> ";
+	cout<<"Â¿Desea realizar otra consulta? (s/n)==> ";
 	cin>>continuar;
 	consulclie();
 	}while((continuar != "n") && (continuar != "N"));
@@ -210,7 +210,7 @@ void facturar(void){
 	cout<<"Subtotal Cliente: "<<subtotclie<<endl;
 	cout<<"IVA "<<iva<<endl;
 	cout<<"Total a pagar: "<<tot<<endl;
-	cout<<"¿Desea realizar otra consulta? (s/n)==> ";
+	cout<<"Â¿Desea realizar otra consulta? (s/n)==> ";
 	cin>>continuar;
 	facturar();
 	}while((continuar != "n") && (continuar != "N"));

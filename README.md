@@ -30,3 +30,15 @@ Archive of high school programming projects built in Visual Basic and C++, showc
   * Conditional branching logic (`If / ElseIf`) for multi-tier business rules.
   * User input parsing (`Val()`) and arithmetic calculation across text box controls.
   * Event-driven Windows Forms UI handling (`Button.Click` events).
+
+### 4. Inventory & Point-of-Sale (POS) Billing System (`Inventory-POS-Billing-CPP`)
+* **Language:** C++ (Visual Studio)
+* **Description:** A full console-based retail management and invoicing system (*INFOPRADO*) supporting product inventory registration, customer profile lookup by tax ID (*NIT*), real-time stock deduction, customer-tier discounts, and invoice generation with 12% VAT (*IVA*).
+* **Key Programming Concepts Demonstrated:**
+  * Relational data management using parallel 1D and 2D arrays (`prods`, `clie`, `nit`, `nomprod`).
+  * Modular architecture across five core business functions (`ingresoprod`, `consprod`, `ingresoclie`, `consulclie`, `facturar`).
+  * Input validation, duplicate ID prevention, and real-time inventory stock checks.
+  * Automated invoice calculation incorporating tiered customer discounts (2% / 6%) and 12% sales tax (*IVA*). 
+
+
+

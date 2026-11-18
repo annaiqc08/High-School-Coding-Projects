@@ -48,5 +48,13 @@ Archive of high school programming projects built in Visual Basic and C++, showc
   * Coordinate-based console rendering using the Windows API (`SetConsoleCursorPosition` / `gotoxy`).
   * Dynamic terminal color manipulation (`SetConsoleTextAttribute`) and frame-by-frame animation timing (`Sleep()`).
 
+### 6. Restaurant Raw Materials & Menu Costing System (`Restaurant-Inventory-Menu-CPP`)
+* **Language:** C++ (Visual Studio)
+* **Description:** A console-based restaurant management application that tracks raw ingredient inventory (measured in ounces and unit cost), configures menu item recipes (ingredient, sauce, and cheese ratios), and calculates total ingredient investment with animated UI frames and search progress bars.
+* **Key Programming Concepts Demonstrated:**
+  * Structured multi-dimensional data storage (`materiaprima` and `opciones` matrices) paired with parallel string arrays.
+  * Duplicate-entry validation with inline console error recovery and row backtracking.
+  * Animated ASCII box drawing and simulated search progress bars using `gotoxy` and `Sleep()`.
+
 
 

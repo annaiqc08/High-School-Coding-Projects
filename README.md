@@ -23,4 +23,10 @@ Archive of high school programming projects built in Visual Basic and C++, showc
   * Event-driven programming (`Click` handlers, `Form.Load`, and `Timer.Tick` countdown events).
   * Dynamic UI control manipulation and embedded resource image loading (`My.Resources`).
 
- 
+### 3. Bulk Purchase Discount Calculator (`Bulk-Discount-Calculator-VB`)
+* **Language:** Visual Basic .NET (Visual Studio)
+* **Description:** A Windows Forms retail pricing calculator that computes gross subtotals, applies tiered bulk discounts (10%, 20%, or 40% based on item quantity), and displays total customer savings alongside the final net price.
+* **Key Programming Concepts Demonstrated:**
+  * Conditional branching logic (`If / ElseIf`) for multi-tier business rules.
+  * User input parsing (`Val()`) and arithmetic calculation across text box controls.
+  * Event-driven Windows Forms UI handling (`Button.Click` events).

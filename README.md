@@ -40,5 +40,13 @@ Archive of high school programming projects built in Visual Basic and C++, showc
   * Input validation, duplicate ID prevention, and real-time inventory stock checks.
   * Automated invoice calculation incorporating tiered customer discounts (2% / 6%) and 12% sales tax (*IVA*). 
 
+### 5. Animated ASCII Diamond & Pyramid Generator (`ASCII-Diamond-Animation-CPP`)
+* **Language:** C++ (Visual Studio)
+* **Description:** A console graphics program that constructs a multi-colored diamond pattern in the center of the terminal by rendering four distinct triangular quadrants with timed animation delays.
+* **Key Programming Concepts Demonstrated:**
+  * Nested `for` loops with ascending and descending index counters to generate geometric patterns.
+  * Coordinate-based console rendering using the Windows API (`SetConsoleCursorPosition` / `gotoxy`).
+  * Dynamic terminal color manipulation (`SetConsoleTextAttribute`) and frame-by-frame animation timing (`Sleep()`).
+
 
 
